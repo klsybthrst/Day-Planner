@@ -1,22 +1,26 @@
-# Day-Planner
+<h1>Day-Planner</h1>
 
-#Usage
-Plan you day with Day Planner! Keep track of your day with ease, using local storage to store re-occuring events like Lunch! Never lose track of time as the colour coded hours change throughout your day!
+<h2>Usage</h2>
+<p>Plan you day with Day Planner! Keep track of your day with ease, using local storage to store re-occuring events like Lunch! Never lose track of time as the colour coded hours change throughout your day!</p>
 
-#Tools 
-Font Awesome
-Bootstrap
-Google Fonts
-Visual Studio Code
+<h2>Tools</h2>
+<ol>
+  <li>Font Awesome</li>
+  <li>Bootstrap</li>
+  <li>Google Fonts</li>
+  <li>Visual Studio Code</li>
+</ol>
 
-#Screenshots
-I'm not sure how to add them to a readMe I've written in VSCode
+<h2>Screenshots</h2>
+<p>I'm not sure how to add them to a readMe I've written in VSCode</p>
 
-#Features
-Local storage to save daily activities
-Colour coded hour blocks to let the user know the current time, what has past in the day and what is upcoming
+<h2>Features</h2>
+<ol>
+  <li>Local storage to save daily activities</li>
+  <li>Colour coded hour blocks to let the user know the current time, what has past in the day and what is upcoming</li>
+</ol>
 
-**I just read a comment about using Markdown for my readMes to clean them up. I will look into it
+
 
 
 
