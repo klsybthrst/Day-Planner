@@ -16,6 +16,8 @@ I'm not sure how to add them to a readMe I've written in VSCode
 Local storage to save daily activities
 Colour coded hour blocks to let the user know the current time, what has past in the day and what is upcoming
 
+**I just read a comment about using Markdown for my readMes to clean them up. I will look into it
+
 
 
 
