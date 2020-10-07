@@ -13,8 +13,7 @@
 
 <h2>Screenshots</h2>
 <img width="726" alt="Screen Shot 2020-10-06 at 10 45 47 PM" src="https://user-images.githubusercontent.com/70531552/95281651-b2b5c080-0825-11eb-9dcb-080a1bceeecd.png">
-![Screen Shot 2020-10-07 at 10 19 51 AM](https://user-images.githubusercontent.com/70531552/95343597-b9c0eb00-0886-11eb-9db1-eca6805bfbe9.png)
-
+<img width="1316" alt="Screen Shot 2020-10-07 at 10 19 51 AM" src="https://user-images.githubusercontent.com/70531552/95343982-20460900-0887-11eb-87f3-3133f94bcaf0.png">
 <h2>Features</h2>
 <ol>
   <li>Local storage to save daily activities</li>
