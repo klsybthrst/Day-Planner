@@ -20,6 +20,8 @@
   <li>Colour coded hour blocks to let the user know the current time, what has past in the day and what is upcoming</li>
 </ol>
 
+<h2>Roadmap</h2>
+<p>I would like to develop my CSS skills to make the planner more visually appealing. I would like to include the option of a monthly calendar in order to plan more effectively</p>
 
 
 
