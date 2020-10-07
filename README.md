@@ -12,7 +12,7 @@
 </ol>
 
 <h2>Screenshots</h2>
-<p>I'm not sure how to add them to a readMe I've written in VSCode</p>
+<img width="726" alt="Screen Shot 2020-10-06 at 10 45 47 PM" src="https://user-images.githubusercontent.com/70531552/95281651-b2b5c080-0825-11eb-9dcb-080a1bceeecd.png">
 
 <h2>Features</h2>
 <ol>
