@@ -3,6 +3,9 @@
 <h2>Usage</h2>
 <p>Plan you day with Day Planner! Keep track of your day with ease, using local storage to store re-occuring events like Lunch! Never lose track of time as the colour coded hours change throughout your day!</p>
 
+<h2>Deployed Link</h2>
+<a href="https://klsybthrst.github.io/Day-Planner/" target="_blank">Day Planner</a>
+
 <h2>Tools</h2>
 <ol>
   <li>Font Awesome</li>
